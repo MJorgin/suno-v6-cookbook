@@ -6,7 +6,7 @@ genre: mandopop-ballad
 workflow: voice-memo-to-song
 model: v6
 inputs: [voice-memo, text]
-evidence_tier: official
+evidence_tier: official-informed
 verified: false
 created_at: 2026-09-11
 updated_at: 2026-09-11
@@ -48,4 +48,4 @@ The model keeps subway noise, invents inaccurate words, or loses the melody unde
 Shorten the source to one eight-second phrase, provide lyrics explicitly, and request melody preservation only.
 
 ## Evidence
-Evidence tier: `official` for multimodal source creation; rights and timestamp wording are official-informed.
+Evidence tier: `official-informed`; multimodal source creation is an official v6 capability, while this exact memo prompt remains untested.

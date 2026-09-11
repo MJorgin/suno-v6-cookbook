@@ -6,7 +6,7 @@ genre: rock-anthem
 workflow: isolate-and-rebuild
 model: v6
 inputs: [audio, text]
-evidence_tier: official
+evidence_tier: official-informed
 verified: false
 created_at: 2026-09-11
 updated_at: 2026-09-11
@@ -48,4 +48,4 @@ Bleeding drums remain, the motif is processed beyond recognition, or the rebuild
 Narrow to a four-second timestamp and state that recognition takes priority over transformation.
 
 ## Evidence
-Evidence tier: `official` for isolation/rebuild capability; workflow details are official-informed.
+Evidence tier: `official-informed`; isolation and rebuild are official v6 capabilities, while this exact extraction prompt remains untested.

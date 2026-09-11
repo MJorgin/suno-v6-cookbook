@@ -1,6 +1,6 @@
 # What Is New in Suno v6
 
-Last reviewed: 2026-09-11  
+Last reviewed: 2026-09-11
 Primary source: [Introducing v6](https://suno.com/blog/introducing-v6)
 
 This page separates official facts from practical prompting guidance.

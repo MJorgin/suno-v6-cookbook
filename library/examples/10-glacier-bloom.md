@@ -30,7 +30,7 @@ Sudden drum beats, constant cymbal swells, trailer impacts, literal wind effects
 
 ## Lyrics or Edit Instruction
 ```text
-Use my owned glacier image.
+Use my glacier image. I own or have rights to use this source.
 Visual anchors: blue-white ice, slow sunlight moving across a crack, tiny meltwater motion.
 Follow emotional progression rather than literal sound effects: stillness -> warmth -> fragile bloom.
 Wordless vocals may enter after 1:10 but no sung lyrics.

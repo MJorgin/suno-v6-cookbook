@@ -6,7 +6,7 @@ genre: cinematic-ambient
 workflow: image-or-video-to-music
 model: v6-wild
 inputs: [video, text]
-evidence_tier: official
+evidence_tier: official-informed
 verified: false
 created_at: 2026-09-11
 updated_at: 2026-09-11
@@ -47,4 +47,4 @@ Literal traffic sound effects, over-syncing to cuts, or an inappropriate beat.
 Use `v6`, remove world-sound references, and specify three timed sections of 15 seconds each.
 
 ## Evidence
-Evidence tier: `official` for video input; the musical structure is official-informed.
+Evidence tier: `official-informed`; video input is an official v6 capability, while this cue structure is a practical prompt.

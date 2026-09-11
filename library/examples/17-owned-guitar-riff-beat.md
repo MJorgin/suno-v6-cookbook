@@ -6,7 +6,7 @@ genre: electronic-dance
 workflow: sample-riff-to-beat
 model: v6
 inputs: [audio, text]
-evidence_tier: official
+evidence_tier: official-informed
 verified: false
 created_at: 2026-09-11
 updated_at: 2026-09-11
@@ -48,4 +48,4 @@ Source noise is preserved, bass clashes with the guitar, or the result evokes a 
 Specify exact bar placement, allow pitch correction by one semitone, and ask for a drumless intro.
 
 ## Evidence
-Evidence tier: `official` for sampling/rebuild features; prompt details are official-informed.
+Evidence tier: `official-informed`; sampling and rebuild are official v6 capabilities, while this exact beat prompt remains untested.

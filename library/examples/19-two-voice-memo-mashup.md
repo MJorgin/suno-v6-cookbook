@@ -6,7 +6,7 @@ genre: lofi-bedroom
 workflow: owned-source-mashup
 model: v6
 inputs: [voice-memo, owned-song-a, owned-song-b, text]
-evidence_tier: official
+evidence_tier: official-informed
 verified: false
 created_at: 2026-09-11
 updated_at: 2026-09-11
@@ -47,4 +47,4 @@ Two melodies overlap, keys do not resolve, room noise remains, or the result sou
 Use Source A in verses and Source B only as a wordless answer, then request one new connecting chord progression.
 
 ## Evidence
-Evidence tier: `official` for multi-source mashup; hierarchy and rights instructions are official-informed.
+Evidence tier: `official-informed`; multi-source mashup is an official v6 capability, while this hierarchy prompt remains untested.

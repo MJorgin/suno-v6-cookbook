@@ -6,7 +6,7 @@ genre: english-indie-pop
 workflow: lyric-micro-edit
 model: v6
 inputs: [text]
-evidence_tier: official
+evidence_tier: official-informed
 verified: false
 created_at: 2026-09-11
 updated_at: 2026-09-11
@@ -47,4 +47,4 @@ Adjacent lyrics change, the vocal tone shifts, or the new line contains too many
 Shorten the replacement to eight syllables and specify that the final word must rhyme with the following line.
 
 ## Evidence
-Evidence tier: `official` for local lyric replacement; the prompt wording is official-informed.
+Evidence tier: `official-informed`; local replacement is an official v6 capability, while this exact prompt and line fit remain untested.

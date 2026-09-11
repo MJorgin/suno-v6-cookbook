@@ -1,8 +1,11 @@
-# awesome-suno-v6 项目设计规格
+# Suno v6 Cookbook 项目设计规格
 
 日期：2026-09-11  
-状态：待用户评审  
-负责人：MJ + Codex
+状态：已确认，待实施  
+负责人：MJorgin + Codex
+
+公开仓库：`MJorgin/suno-v6-cookbook`  
+展示标题：`Awesome Suno v6 Cookbook`
 
 ## 1. 背景与机会
 
@@ -28,7 +31,9 @@ Suno 于 2026-09-09 正式发布 v6 系列模型。v6 不只是旧模型的质�
 
 ## 2. 项目定位
 
-建议仓库名：`awesome-suno-v6`
+最终仓库名：`suno-v6-cookbook`
+
+GitHub 展示标题使用 `Awesome Suno v6 Cookbook`。仓库 slug 保留 `cookbook` 品牌，标题和 README 首屏保留 `awesome` 与 `suno v6` 搜索关键词。
 
 英文一句话定位：
 
@@ -93,7 +98,7 @@ v0.1 只发布纯 Markdown 内容和纯文本 Agent Skill，不做网站、不�
 ## 5. 建议目录结构
 
 ```text
-awesome-suno-v6/
+suno-v6-cookbook/
 ├── README.md
 ├── README.zh-CN.md
 ├── LICENSE
@@ -397,10 +402,11 @@ v0.1 满足以下条件才公开：
 - 没有未核实的“官方说法”；
 - 用户确认 GitHub 仓库名、许可证和发布身份。
 
-## 16. 当前待用户确认的决策
+## 16. 已确认决策
 
-1. 仓库名是否采用 `awesome-suno-v6`；
-2. 是否以英文 README 为主入口、中文 README 为第二语言；
-3. 文档和案例许可证是否采用 CC-BY-4.0；
-4. v0.1 是否坚持纯 Markdown、无脚本和无第三方服务；
-5. GitHub 公开账号是个人账号还是组织账号。
+1. 仓库名采用 `suno-v6-cookbook`；
+2. 展示标题采用 `Awesome Suno v6 Cookbook`；
+3. 以英文 README 为主入口、中文 README 为第二语言；
+4. 文档和案例许可证采用 CC-BY-4.0；
+5. v0.1 坚持纯 Markdown、无脚本和无第三方服务；
+6. 公开账号使用个人 GitHub 账号 `MJorgin`。

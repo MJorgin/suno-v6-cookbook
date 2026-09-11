@@ -4,6 +4,8 @@
 
 [English](./README.md) · [贡献指南](./CONTRIBUTING.md) · [安全与版权](./docs/safety-and-copyright.md) · [CC-BY-4.0](./LICENSE)
 
+![Awesome Suno v6 Cookbook 社交卡片，展示工作流、曲风、案例和失败笔记数量](./assets/social-card.png)
+
 > **非官方项目。** 本仓库是独立社区资料，不隶属于 Suno，也未获得 Suno 官方背书或认证。
 
 > **安全边界：** 只使用你拥有或已获许可的文字、音频、图片、视频、人声录音和分轨。不要上传商业发行作品、盗版媒体、未授权采样，或要求冒充真实人物。
@@ -16,6 +18,7 @@
 4. 直接参考[原创案例库](./library/examples/)里的可复制模板。
 5. 生成失败时，用[失败笔记](./library/failure-notes/)定位原因。
 6. 可安装纯 Markdown Agent Skill：[`suno-v6-songwriter`](./agents/skills/suno-v6-songwriter/SKILL.md)。
+7. 准备发布时，使用 [GitHub 发布包](./docs/launch-kit.zh-CN.md)。
 
 ## v6 新能力
 
@@ -67,7 +70,7 @@ v6 的重点包括：
 
 ## 仓库原则
 
-- v0.1 只做 Markdown：无包管理、无运行依赖、无 API 客户端、无浏览器自动化、不上传媒体。
+- v0.1 以 Markdown 静态文档和视觉素材为主：无包管理、无运行依赖、无 API 客户端、无浏览器自动化、不上传媒体。
 - 明确区分官方事实和仍需试听验证的提示词经验。
 - 所有案例保持原创，避免商业歌词和指定真实歌手模仿。
 - 所有素材工作流先确认权利和使用范围。

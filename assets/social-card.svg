@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">Awesome Suno v6 Cookbook social card</title>
+  <desc id="desc">A dark neon launch card for a bilingual Suno v6 prompt cookbook with workflow and example counts.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="640" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#080A17"/>
+      <stop offset="0.48" stop-color="#111029"/>
+      <stop offset="1" stop-color="#1B0D2D"/>
+    </linearGradient>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1030 160) rotate(135) scale(460)">
+      <stop stop-color="#39E6FF" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#39E6FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="pinkGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(160 560) rotate(-45) scale(430)">
+      <stop stop-color="#FF4ECD" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#FF4ECD" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="titleGradient" x1="120" y1="160" x2="820" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="0.55" stop-color="#D9FBFF"/>
+      <stop offset="1" stop-color="#FFC7F0"/>
+    </linearGradient>
+    <linearGradient id="orbGradient" x1="850" y1="170" x2="1130" y2="450" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#35E6FF"/>
+      <stop offset="0.52" stop-color="#8067FF"/>
+      <stop offset="1" stop-color="#FF54D0"/>
+    </linearGradient>
+    <linearGradient id="waveGradient" x1="760" y1="320" x2="1160" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#39E6FF"/>
+      <stop offset="0.5" stop-color="#B68CFF"/>
+      <stop offset="1" stop-color="#FF5ED2"/>
+    </linearGradient>
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="34"/>
+    </filter>
+    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="14" stdDeviation="22" flood-color="#000000" flood-opacity="0.32"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <rect width="1280" height="640" fill="url(#cyanGlow)"/>
+  <rect width="1280" height="640" fill="url(#pinkGlow)"/>
+
+  <g opacity="0.16" stroke="#FFFFFF" stroke-width="1">
+    <path d="M0 120H1280M0 240H1280M0 360H1280M0 480H1280"/>
+    <path d="M120 0V640M240 0V640M360 0V640M480 0V640M600 0V640M720 0V640M840 0V640M960 0V640M1080 0V640M1200 0V640"/>
+  </g>
+
+  <g opacity="0.22">
+    <circle cx="1010" cy="310" r="185" fill="#0A0D20" filter="url(#softBlur)"/>
+  </g>
+  <circle cx="1000" cy="300" r="132" fill="none" stroke="url(#orbGradient)" stroke-width="3" opacity="0.9"/>
+  <circle cx="1000" cy="300" r="88" fill="none" stroke="#FFFFFF" stroke-width="1.5" opacity="0.22"/>
+  <circle cx="1000" cy="300" r="176" fill="none" stroke="#FFFFFF" stroke-width="1" opacity="0.14"/>
+
+  <g fill="url(#waveGradient)">
+    <circle cx="814" cy="300" r="5"/>
+    <circle cx="846" cy="300" r="7"/>
+    <circle cx="882" cy="300" r="10"/>
+    <circle cx="1118" cy="300" r="10"/>
+    <circle cx="1154" cy="300" r="7"/>
+    <circle cx="1186" cy="300" r="5"/>
+  </g>
+  <path d="M810 300C846 236 876 366 912 300S978 232 1014 300 1080 370 1116 300S1164 252 1190 300" fill="none" stroke="url(#waveGradient)" stroke-width="7" stroke-linecap="round"/>
+  <path d="M830 348C880 392 936 394 1000 348S1120 300 1170 348" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" opacity="0.22"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <rect x="96" y="82" width="292" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <text x="116" y="105" fill="#BDEFFF" font-size="15" font-weight="700" letter-spacing="2.4">INDEPENDENT COMMUNITY GUIDE</text>
+
+    <text x="92" y="184" fill="url(#titleGradient)" font-size="76" font-weight="850" letter-spacing="-2.8">Awesome</text>
+    <text x="92" y="268" fill="url(#titleGradient)" font-size="82" font-weight="850" letter-spacing="-3.2">Suno v6</text>
+    <text x="96" y="346" fill="url(#titleGradient)" font-size="76" font-weight="850" letter-spacing="-2.8">Cookbook</text>
+
+    <text x="100" y="398" fill="#D5D9F7" font-size="25" font-weight="500">Prompts · local edits · multimodal workflows · agent skill</text>
+
+    <g filter="url(#cardShadow)">
+      <rect x="96" y="444" width="142" height="72" rx="18" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.13"/>
+      <rect x="256" y="444" width="142" height="72" rx="18" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.13"/>
+      <rect x="416" y="444" width="142" height="72" rx="18" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.13"/>
+      <rect x="576" y="444" width="178" height="72" rx="18" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.13"/>
+    </g>
+    <g text-anchor="middle">
+      <text x="167" y="482" fill="#FFFFFF" font-size="30" font-weight="800">12</text>
+      <text x="167" y="504" fill="#9EA8D8" font-size="14" font-weight="650" letter-spacing="0.6">WORKFLOWS</text>
+      <text x="327" y="482" fill="#FFFFFF" font-size="30" font-weight="800">12</text>
+      <text x="327" y="504" fill="#9EA8D8" font-size="14" font-weight="650" letter-spacing="0.6">GENRE GUIDES</text>
+      <text x="487" y="482" fill="#FFFFFF" font-size="30" font-weight="800">24</text>
+      <text x="487" y="504" fill="#9EA8D8" font-size="14" font-weight="650" letter-spacing="0.6">EXAMPLES</text>
+      <text x="665" y="482" fill="#FFFFFF" font-size="30" font-weight="800">6</text>
+      <text x="665" y="504" fill="#9EA8D8" font-size="14" font-weight="650" letter-spacing="0.6">FAILURE NOTES</text>
+    </g>
+
+    <text x="98" y="586" fill="#7E88B8" font-size="17" font-weight="600" letter-spacing="0.4">CC-BY-4.0 · Markdown-first · Bilingual EN / 中文 · Rights-safe original creation</text>
+  </g>
+</svg>

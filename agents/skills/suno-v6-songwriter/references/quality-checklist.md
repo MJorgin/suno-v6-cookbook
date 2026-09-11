@@ -5,7 +5,7 @@ Before answering, check:
 - Model: one primary model and a reason; optional route is explicit.
 - Originality: lyrics and prompt are newly written.
 - Rights: source tasks include ownership/permission language and timestamps.
-- Safety: no named-voice cloning, private-person impersonation, unauthorized samples, or guaranteed output claims.
+- Safety: no named-voice cloning, private-person impersonation, unauthorized samples, or certainty-based output claims.
 - Structure: new songs include section tags; edits quote the old and new target.
 - Singability: lines are short enough for the tempo and genre; Chinese and bilingual roles are clear.
 - Production: one dominant genre, a small instrument set, and a clear energy curve.

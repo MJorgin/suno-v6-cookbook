@@ -1,10 +1,10 @@
 # Suno v6 Cookbook 项目设计规格
 
-日期：2026-09-11  
-状态：已确认，待实施  
+日期：2026-09-11
+状态：已确认，待实施
 负责人：MJorgin + Codex
 
-公开仓库：`MJorgin/suno-v6-cookbook`  
+公开仓库：`MJorgin/suno-v6-cookbook`
 展示标题：`Awesome Suno v6 Cookbook`
 
 ## 1. 背景与机会

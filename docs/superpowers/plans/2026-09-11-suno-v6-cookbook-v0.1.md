@@ -487,11 +487,7 @@ fi
 
 Run:
 
-```bash
-if rg -n "official project|officially certified|guaranteed|100% clone|exact voice clone" README.md README.zh-CN.md docs library agents; then
-  exit 1
-fi
-```
+Run a prohibited-marketing-claim scanner across `README.md`, `README.zh-CN.md`, `docs/`, `library/`, and `agents/`. It must reject the forbidden claims listed in the safety requirements rather than relying on a negation sentence to provide cover.
 
 - [ ] **Step 5: Check repository status and commit fixes**
 

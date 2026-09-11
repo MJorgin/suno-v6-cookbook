@@ -4,6 +4,8 @@ A community cookbook for Suno v6 prompting, local lyric edits, multimodal creati
 
 [中文入口](./README.zh-CN.md) · [Contributing](./CONTRIBUTING.md) · [Safety and copyright](./docs/safety-and-copyright.md) · [CC-BY-4.0](./LICENSE)
 
+![Awesome Suno v6 Cookbook social card showing workflow, genre, example, and failure-note counts](./assets/social-card.png)
+
 > **Independent community project.** This repository is a community resource. It is not affiliated with, endorsed by, or certified by Suno.
 
 > **Safety boundary:** Use only text, audio, images, video, voice recordings, and stems that you own or have permission to use. Do not upload commercial releases, ripped media, unauthorized samples, or requests designed to impersonate a real person.
@@ -16,6 +18,7 @@ A community cookbook for Suno v6 prompting, local lyric edits, multimodal creati
 4. Copy a ready-to-adapt case from [Examples](./library/examples/).
 5. If a result fails, diagnose it with [Failure Notes](./library/failure-notes/).
 6. Use the Markdown-only agent skill: [`suno-v6-songwriter`](./agents/skills/suno-v6-songwriter/SKILL.md).
+7. Preparing a launch? Use the [GitHub Launch Kit](./docs/launch-kit.md).
 
 ## What changed in v6
 
@@ -67,7 +70,7 @@ The required metadata format for examples is documented in [Case Schema](./docs/
 
 ## Repository principles
 
-- Markdown-only v0.1: no package manager, runtime dependency, API client, browser automation, or media upload tool.
+- Markdown-first v0.1: static docs and visual assets, with no package manager, runtime dependency, API client, browser automation, or media upload tool.
 - Evidence labels separate official facts from prompts that still need testing.
 - Original cases avoid commercial lyrics and named-artist imitation.
 - Source workflows begin with ownership and permission.

@@ -4,7 +4,7 @@ A community cookbook for Suno v6 prompting, local lyric edits, multimodal creati
 
 [中文入口](./README.zh-CN.md) · [Contributing](./CONTRIBUTING.md) · [Safety and copyright](./docs/safety-and-copyright.md) · [CC-BY-4.0](./LICENSE)
 
-![Awesome Suno v6 Cookbook social card showing workflow, genre, example, and failure-note counts](./assets/social-card.png)
+![Awesome Suno v6 Cookbook — model router, edit workflows, genre playbook, examples and failure notes](assets/hero.png)
 
 > **Independent community project.** This repository is a community resource. It is not affiliated with, endorsed by, or certified by Suno.
 

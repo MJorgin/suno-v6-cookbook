@@ -4,7 +4,7 @@
 
 [English](./README.md) · [贡献指南](./CONTRIBUTING.md) · [安全与版权](./docs/safety-and-copyright.md) · [CC-BY-4.0](./LICENSE)
 
-![Awesome Suno v6 Cookbook 社交卡片，展示工作流、曲风、案例和失败笔记数量](./assets/social-card.png)
+![Awesome Suno v6 Cookbook — model router, edit workflows, genre playbook, examples and failure notes](assets/hero.png)
 
 > **非官方项目。** 本仓库是独立社区资料，不隶属于 Suno，也未获得 Suno 官方背书或认证。
 
